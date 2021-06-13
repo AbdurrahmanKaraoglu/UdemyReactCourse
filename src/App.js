@@ -1,10 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
+
 
 function App() {
   return (
     <div>
-      <h2>Hello From React</h2>
+      <h2>Hello React Course</h2>
     </div>
   );
 }
